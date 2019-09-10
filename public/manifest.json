@@ -1,6 +1,5 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Tindev",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,7 +8,8 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone",
+  "display": "standalone // faz com que o PWA esconda o navegador (modo mais recomendado!)",
   "theme_color": "#000000",
+  "orientation": "portrait //Orientação do seu app.",
   "background_color": "#ffffff"
 }
