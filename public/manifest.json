@@ -9,8 +9,8 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone // faz com que o PWA esconda o navegador (modo mais recomendado!)",
+  "display": "fullscreen",
   "theme_color": "#000000",
-  "orientation": "portrait //Orientação do seu app.",
+  "orientation": "portrait",
   "background_color": "#ffffff"
 }
